@@ -188,7 +188,7 @@ const openSource = {
 
 const bigProjects = {
   title: " Projects",
-  subtitle: "Showcasing My Best Work💡🚀",
+  subtitle: "SHOWCASING MY BEST WORK💡🚀",
   projects: [
     {
       image: require("./assets/images/no_risk.png.png"),
