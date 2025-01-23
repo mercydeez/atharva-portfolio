@@ -221,7 +221,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Goethe Institute A2 Certification",
       subtitle:
         "Successfully passed the Goethe Institute A2 Exam, demonstrating proficiency in basic German language skills, including reading, writing, listening, and speaking, for everyday communication.",
       image: require("./assets/images/goethe.png"),
