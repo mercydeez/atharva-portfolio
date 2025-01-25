@@ -209,12 +209,12 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/.png"),
-      projectName: "UPI_Trasactions Analysis Dashboard",
+      projectName: "UPI_Transactions Analysis Dashboard",
       projectDesc: "A Power BI dashboard that analyzes UPI transaction trends, payment methods, and regional insights, providing data-driven insights into UPI growth.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://github.com/mercydeez/UPI_Dashboard_PowerBI/"
+          url: "https://github.com/mercydeez/UPI_Dashboard_PowerBI"
         }
       ]
     }
