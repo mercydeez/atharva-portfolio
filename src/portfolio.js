@@ -206,6 +206,11 @@ const bigProjects = {
       image: require("./assets/images/prime_dashboard.png"),
       projectName: "PrimeVideo Analysis  Dashboard",
       projectDesc: "A dashboard for Amazon Prime that shows key data such as total subscribers, popular shows, and user insights. It helps track trends and measure content performance through simple, easy-to-understand charts.",
+    },
+    {
+      image: require("./assets/images/image.png"),
+      projectName: "UPI_Trasactions Analysis Dashboard",
+      projectDesc: "A Power BI dashboard that analyzes UPI transaction trends, payment methods, and regional insights, providing data-driven insights into UPI growth.",
     }
   ],
   display: true // Set false to hide this section, defaults to true
