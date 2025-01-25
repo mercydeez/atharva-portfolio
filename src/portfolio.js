@@ -203,7 +203,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/.png"),
+      image: require("./assets/images/image.png"),
       projectName: "UPI_Transactions Analysis Dashboard",
       projectDesc: "A Power BI dashboard that analyzes UPI transaction trends, payment methods, and regional insights, providing data-driven insights into UPI growth.",
       footerLink: [
@@ -224,6 +224,7 @@ const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+
 
   achievementsCards: [
     {
