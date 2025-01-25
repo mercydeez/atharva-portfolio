@@ -1,0 +1,472 @@
+[33mc42f33f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Resolved merge conflicts
+[33m20773dd[m Update submodule reference
+[33m91eeb70[m Update submodule content
+[33m2395b79[m Update submodule reference for developerFolio
+[33mc3f6c58[m Update content in developerFolio submodule
+[33me7cf110[m UPI Dashboard
+[33mdf06bbc[m Updated portfolio, deleted unused images, and modified portfolio.js
+[33m162ce95[m Made title change for goethe
+[33m2e16100[m Update portfolio details and sections
+[33mfbb42d2[m project change subtitle
+[33mcf2f6b9[m Initial commit
+[33mfc69340[m Updated Dockerfile (#672)
+[33mf4bc0bc[m Added target='_blank' and rel='noreferrer' to external link in Footer… (#719)
+[33m8046128[m fix:Incomplete string escaping or encoding #709 (#723)
+[33m8bb65dc[m fix: resume path in Readme  (#734)
+[33m2b94cad[m Fix: Resume button in nav bar (#738)
+[33md3fdcee[m Update README.md (#695)
+[33m1b69fbd[m Feature-Resume display and download (#698)
+[33mf16db7c[m fix(ci): update workflow to use node 18.x (#646)
+[33ma323aa2[m fix(ci): fix prettier (#633)
+[33mac2baf8[m Update deploy.yml (#627)
+[33m4672e2a[m fix(ci): fix build failing due to old (and deprecated) packages (#630)
+[33m27b12fd[m docs: add KazAttarwala as a contributor for code (#605)
+[33mbae70ce[m docs: add muneebahmedayub as a contributor for code (#598)
+[33m462b26c[m [pre-commit.ci] pre-commit autoupdate (#478)
+[33m5b7dfb8[m Bump minimatch and react-scripts (#565)
+[33m0cf14be[m Bump shell-quote and react-scripts (#566)
+[33mf45d9ab[m Bump ansi-html and react-scripts (#567)
+[33m5881956[m Bump jsdom and react-scripts (#568)
+[33mba8b1b9[m react-easy-emoji version update (#589)
+[33m1ffe448[m Bump decode-uri-component from 0.2.0 to 0.2.2 (#553)
+[33m6910376[m Bump qs from 6.5.2 to 6.5.3 (#554)
+[33m9963d70[m Bump express from 4.17.1 to 4.18.2 (#555)
+[33m661e886[m Bump json5 from 1.0.1 to 1.0.2 (#564)
+[33m183d312[m update README.md on generating github token (#547)
+[33m2173a8f[m docs: add Dun-sin as a contributor for code (#546)
+[33m8991c3b[m feat: add icon for dark and light theme (#530)
+[33m4794600[m add RedHeadphone as a contributor for bug (#542)
+[33m7cdd391[m center image vertically (#539)
+[33m9cad665[m add IAmTamal as a contributor for doc (#541)
+[33mb16df94[m Updates : Issue Templates 🛠 (#538)
+[33mf693819[m add Njong392 as a contributor for doc (#537)
+[33m05b287e[m chore: removed folder for pull request template (#535)
+[33m0467912[m add Vinitvh as a contributor for code (#533)
+[33m97c1054[m Added repo size conversion to github repo cards. (#529)
+[33m98729eb[m docs: add saiteja13427 as a contributor for bug (#523)
+[33maf5df2c[m Check for School Logo and Render (#522)
+[33m6436b00[m Github RepoCard Icon Color Fix (#517)
+[33m125b4cc[m Fixed property name. (#515)
+[33mcf3233c[m docs: add camipozas as a contributor for code (#520)
+[33m1b73765[m Feature/GitHub jobs (#519)
+[33m3bb748a[m docs: add slyapustin as a contributor for code (#518)
+[33m265cf19[m Removed duplicated component, fixed hardcoded Image alt (#512)
+[33mda131a1[m Fix dependencies (#513)
+[33m7da150c[m Bump minimist from 1.2.5 to 1.2.6 (#482)
+[33m98f339e[m docs: add Ishan-001 as a contributor for doc (#514)
+[33m92572a8[m Bump async from 2.6.3 to 2.6.4 (#488)
+[33m1e59851[m update: README.md: (#501)
+[33m08cb20c[m [pre-commit.ci] pre-commit autoupdate (#450)
+[33m28dbf87[m Fix : dependencies vulnerability
+[33mc05295a[m Bump ws from 5.2.2 to 5.2.3 (#470)
+[33m0ccc133[m Bump follow-redirects from 1.13.0 to 1.14.9 (#468)
+[33mcda0e2d[m Bump url-parse from 1.5.1 to 1.5.10 (#467)
+[33mee848cc[m docs: add SpectralGT as a contributor for code (#469)
+[33m0b024a6[m changed font size from px to rem (#457)
+[33mfd453c0[m Medium cards are not navigating. (#464)
+[33mf1bda62[m Added splash/preloader screen (#366)
+[33mdefd742[m Update portfolio.js
+[33m2216618[m README: Remove a broken link (#449)
+[33mdbd4c8e[m docs: add CanciuCostin as a contributor for code (#447)
+[33m153c381[m Fix fallback for medium blogs (#446)
+[33m5777a43[m Added medium blogs fetch feature for blogs section (#445)
+[33ma40e5a4[m docs: add BraydenTW as a contributor for bug (#440)
+[33mc146993[m Fixed overflow-x bug when skills section fades in (#433)
+[33m2060482[m improve error message (#438)
+[33md209b44[m Fix typos (#437)
+[33m4be0ec6[m docs: add Rispectech as a contributor for code (#436)
+[33mcdb9998[m Add component console error messages (#430)
+[33mdda218d[m Add instructions to customize Lottie animations in the readme (#424)
+[33mba524f4[m Revert "edited lottie width (#418)" (#426)
+[33m20c0655[m docs: add thatdevsherry as a contributor for code (#429)
+[33m6483f92[m docs: add nayabatir1 as a contributor for bug (#427)
+[33m0953543[m docs: add SunitRoy2703 as a contributor for bug (#425)
+[33m7f866a1[m [pre-commit.ci] pre-commit autoupdate (#417)
+[33m1294758[m docs: add RedHeadphone as a contributor for code (#423)
+[33md21c82b[m edited lottie width (#418)
+[33me628ada[m chore(): update font awesome cdn from 5.13 to 5.15 (#422)
+[33mafc5723[m Change email logo (#421)
+[33mc94f769[m Fix extra space when contactInfo.number is not given in Contact Section (#411)
+[33m7606761[m [pre-commit.ci] pre-commit autoupdate (#385)
+[33md681688[m Allow users to setup SEO, tweak metadata and package files (#410)
+[33m508d235[m Add support for Kaggle social link, hide resumeLink on empty value (#409)
+[33m2299b46[m docs: add JooHyukKim as a contributor for code (#408)
+[33mb450422[m FIX : unintended opening of urls (#407)
+[33md0d244f[m Fix font in the logo-name (#401)
+[33m189dab9[m Converted Main.js to a functional component (#365)
+[33m18c1a9f[m Fix issues because of Line Endings (#392)
+[33mee514cc[m Re-add deploy action (#388)
+[33m1cf4547[m docs: add gajanandh as a contributor for bug (#383)
+[33m865f6e5[m Fix extra landing space from header on smaller screens (#382)
+[33m530f59f[m Prettier version bump (#379)
+[33ma5c609a[m [pre-commit.ci] pre-commit autoupdate (#376)
+[33m656eeaf[m docs: add mhowell11 as a contributor (#375)
+[33mcacc0b1[m Update README.md (#374)
+[33mb5e870a[m Add pre-commit config (#372)
+[33mae81159[m docs: add karthikmohan as a contributor (#371)
+[33m48d2198[m Dark Mode Fixes (#370)
+[33m6be9ba1[m docs: add SJellen as a contributor (#369)
+[33m6aefe2a[m Declare all files have LF line endings (#368)
+[33mf67b63d[m Dynamic color scheme #352 (#355)
+[33m8a12f46[m Fix tests and test errors, move gh fetch request behind env key (#360)
+[33m5656e60[m `prof.hireable` isn't defined (#359)
+[33m04bfd7d[m docs: add info about the new profile setup (#343)
+[33mab39721[m docs: add elvisciuffetelli as a contributor (#338)
+[33m170f3d6[m fix(fetch.js): load .env variables (#336)
+[33m2cbba28[m CI: use the token provided from Github (#335)
+[33mcc1cc70[m fix(node.js.yml): set GITHUB_USERNAME env var (#334)
+[33md7c1915[m feat: store profile information locally (#333)
+[33m0d8d6a0[m docs: add vatsaldaveVD as a contributor (#330)
+[33m5cafa18[m [FIX}Email variable in contactInfo section (#328)
+[33m2789597[m run npm audit fix, manually fix some warnings (#326)
+[33m0bd3fc1[m feat: add prettier and a check for it using gh actions (#259)
+[33m6da4f08[m docs: add jayhawk24 as a contributor (#325)
+[33m65dd292[m Add shadow on hover to all cards. (#324)
+[33m287a088[m feat: storing theme in local storage (#311)
+[33m6508153[m docs: add AlKun25 as a contributor (#316)
+[33m821e7a4[m Changed screen capture GIF (#315)
+[33mea22598[m docs: add yogeshhrathod as a contributor (#314)
+[33meaeee9f[m docs: dark mode is already implemented (ReadMe) (#313)
+[33m1e4b261[m docs: add 1hanzla100 as a contributor (#308)
+[33md227adc[m Re-Designed Big Projects Section (#305)
+[33m75e4211[m fixed name height in repo card (#304)
+[33mc214535[m docs: add keshavjain235 as a contributor (#303)
+[33ma384b9a[m Fixed School Text Height (#302)
+[33med90a7e[m Fix talk card box shadow (#301)
+[33m97783fb[m docs: add BourgeoisBenjamin as a contributor (#297)
+[33m8ad27a4[m :bug: fixed display option for StartupProject, Greeting, Talks and twitter (#295)
+[33m6284148[m docs: add WarenGonzaga as a contributor (#291)
+[33m9c3aadf[m Dark Mode Slider Fix with Security Fixes (#264)
+[33m5df7a31[m Add lottie illustrations (#260)
+[33m896abfc[m docs: add tamojit-123 as a contributor (#290)
+[33m6109b45[m Updated Readme (#289)
+[33m5dc19d6[m docs: add Exspiravit as a contributor (#288)
+[33m5058d2b[m Correction warning and add display option (#138)
+[33m0f22fee[m docs: add NajamShehzad as a contributor (#285)
+[33mae41a4c[m Bug Fix in Education Container (#279)
+[33madf8a47[m Fix checkbox (#269)
+[33m5575395[m Fix Spelling Error in achievementsCards.js (#268)
+[33m60ce3e2[m fix: spell correction in component name (#266)
+[33m6767634[m docs: add MuhammadHasham23 as a contributor (#261)
+[33m4356133[m Added Dark Mode Feature (#92)
+[33mf2ca3c3[m docs: add Table of Contents to README.md (#256)
+[33m66cd088[m Fixed Docker paths, generated new package lock (#255)
+[33md2b9868[m docs: add Ergouzii as a contributor (#253)
+[33mdf21bae[m Add Education Section (#250)
+[33m785b91c[m docs: add Seungyeon-Lee as a contributor (#251)
+[33me08f64a[m Resolving a repository connection error where the language used is not defined (#247)
+[33m1e7068d[m docs: add Ergouzii as a contributor (#244)
+[33m02d6f38[m Improve readability and minor style changes in Readme. (#243)
+[33mb5583ad[m docs: add lARSHADl as a contributor (#242)
+[33mebdaa5e[m Fix typos in README (#236)
+[33me3862fa[m docs: add vandana1499 as a contributor (#241)
+[33m1263390[m Update License section position in README (#240)
+[33m66700be[m Updates Achievements and Certifications Card UI (#235)
+[33mf57ed45[m docs: add zekinah as a contributor (#234)
+[33md2c7b0e[m Fixes for Saad Pasta name breaking on medium size view port (#233)
+[33m344f8fd[m docs: add bradleycherrin as a contributor (#231)
+[33mb67e2cc[m Update Github Token [Important] (#232)
+[33m4049e8b[m Medium, Stackoverflow Social Media Icons and GitHub Actions Documentation (#228)
+[33m0f9c49f[m Update Social Media icons with hover
+[33mb2fb7b2[m Merge pull request #229 from saadpasta/css-fixes
+[33m42b31a7[m Reverted margin-top
+[33ma53359d[m layout and css fixes
+[33mf5e8fdf[m Update README.md
+[33mc330e34[m Update README.md
+[33m4a7b453[m Update Footer.js
+[33me849081[m Merge branch 'suggested-features' of https://github.com/bradleycherrin/bradleycherrin.github.io into suggested-features
+[33m5e07b41[m Update .github/workflows/node.js.yml
+[33md01f4d8[m Update portfolio.js
+[33m264d5c9[m Update SocialMedia.css
+[33mf7e7e73[m Update README.md
+[33m147d7a6[m Update README.md
+[33mec19451[m Update node.js.yml
+[33m21b6c85[m Update node.js.yml
+[33m493b67f[m Update portfolio.js
+[33mccc6dd9[m Medium, Stackoverflow, GitHub Actions
+[33mc013f2a[m Fix link (#227)
+[33m5b9b67e[m Update link to Open Source Projects in Readme (#222)
+[33mefb7c91[m docs: add lcsvcn as a contributor (#211)
+[33m3d10501[m [Documentation] Github Token and Open Source Projects section info (#210)
+[33mc76becb[m Add headroom, add yarn.lock (#209)
+[33m3e5054d[m Merge pull request #203 from abhishekashyap/master
+[33m249cd8f[m Fixed the ligature issue on safari
+[33mf4866f5[m docs: add abhishekashyap as a contributor (#202)
+[33m15dd996[m Fixed experience cards issue on safari (#201)
+[33mec4f107[m docs: add aashutoshrathi as a contributor (#194)
+[33ma57aa59[m feat: Serve next-gen images (#191)
+[33m7d4e925[m Add Loading screen (#181)
+[33m7d3181b[m docs: add sparsh-99 as a contributor (#188)
+[33m6e37e5a[m Updated outward button transition on button (#187)
+[33md9c9941[m Remove : Axios and Replace API call with GraphQl (#184)
+[33m772d4cc[m Updated Open-Source UI (#183)
+[33m700f141[m docs: add AkshayCHD as a contributor (#172)
+[33m36238c3[m docs: add parasnagpal as a contributor (#171)
+[33mc4a82a1[m Fix Blog Card Layout (#161)
+[33medbf6e6[m Change talks card alignment to horizontal (#167)
+[33mb8e8656[m Update node.js.yml
+[33mac996cc[m Update node.js.yml
+[33mc8d2400[m Add Redirection to blog url on button click (#170)
+[33ma3aeb53[m Delete .env
+[33m02076be[m Add : get github token from .env (#164)
+[33m3dcc665[m Undo to last commit
+[33m4896265[m docs: add AmnaEjaz as a contributor (#163)
+[33md508339[m Add skill name under icons in SoftwareSkills (#149)
+[33m3902e2e[m docs: add AkshayCHD as a contributor (#158)
+[33m8e6b171[m Add bullet points in experience description (#155)
+[33m4a5e932[m Update portfolio.js with Github Username(#151)
+[33m9c4300d[m Update README.md
+[33m6b4c5e0[m Update portfolio.js
+[33m533aaea[m Update portfolio.js
+[33m1fe272e[m Update portfolio.js
+[33m012a1ef[m Update node.js.yml
+[33md5078b5[m Create node.js.yml
+[33mdb67dd1[m docs: add PulkitBanta as a contributor (#146)
+[33mf7eb358[m Rename "assests" directory to "assets" (#145)
+[33mf949da4[m docs: add PulkitBanta as a contributor (#143)
+[33mc312c5f[m Chronological order in navbar (#142)
+[33m0d06ba0[m Merge pull request #141 from saadpasta/kartik918-patch-1
+[33m15081b7[m Fix readme contributors section
+[33m9009b73[m Merge pull request #140 from saadpasta/all-contributors/add-HenryHengZJ
+[33m1c394b7[m docs: update .all-contributorsrc [skip ci]
+[33m1e7d2b9[m docs: update README.md [skip ci]
+[33m4a07477[m Added Work Experience Section (#136)
+[33m5491fc0[m Documentation overhaul
+[33m06dd6d4[m Add: Issue templates (#128)
+[33mc7cecfc[m Add : Pull Request Template (#129)
+[33me40207a[m Remove Font-Awesome (#127)
+[33me683720[m Merge pull request #124 from saadpasta/all-contributors/add-garimasingh128
+[33md986a68[m docs: update .all-contributorsrc [skip ci]
+[33m115e835[m docs: update README.md [skip ci]
+[33mc530f87[m Merge pull request #122 from garimasingh128/master
+[33m21c8e58[m Added Instagram and Twitter icons in social media links
+[33m585c3a8[m Added Instagram and Twitter icons in social media links
+[33m4b6e574[m Added Instagram and Twitter icons in social media links
+[33m2b80c88[m Solves issue #120 and some minor changes
+[33m58af716[m Solves issue #120 and some minor changes
+[33m3bb1d59[m  Update Portfolio.gif in Readme (#117)
+[33m7de1800[m Update Contact section (#113)
+[33mb5a0b93[m docs: add BharatKammakatla as a contributor (#112)
+[33mce2f984[m docs: add viniciusbds as a contributor (#111)
+[33m0b8fa90[m Merge pull request #110 from viniciusbds/patch-1
+[33m3652132[m Update Projects.js
+[33mebbe1c9[m Added favicons (#106)
+[33m86fadc6[m Merge pull request #102 from saadpasta/pinned-repo-graphql
+[33mc148823[m update portfolio.js
+[33m4df57c3[m Update : GraphQl Query from pinnedRepositories to pinnedItems
+[33m84f5dbc[m docs: add palak-sethi as a contributor (#99)
+[33m67a3656[m docker referencing hotfix (#98)
+[33mb216219[m docs: add joshiujjawal22 as a contributor (#97)
+[33m798af97[m Changed description into subtitle in portfolio.js Achievement Section(#96)
+[33m6fbedae[m Remove portfolio.gif (#94)
+[33m3b0154e[m Merge pull request #91 from naveen521kk/master
+[33m8909386[m Update README.md
+[33m3911ca4[m Change Github Stars
+[33ma0ddf18[m Update Readme File
+[33md8544f7[m Redesign Blog Cards
+[33mbfa499e[m Merge pull request #87 from saadpasta/all-contributors/add-MohammadHasham
+[33mf07a3f0[m docs: update .all-contributorsrc [skip ci]
+[33m6b99d12[m docs: update README.md [skip ci]
+[33m20d62a0[m Merge pull request #86 from MohammadHasham/progress-path-correction
+[33made9c69[m :ambulance: fixed css path
+[33m818c1dd[m Fixed emoji-render-issue using react-easy-emoji (#84)
+[33m5195746[m Merge pull request #83 from kartik918/master
+[33m4854226[m Switch to GPLv3
+[33m3a9bc0c[m Merge pull request #8 from saadpasta/master
+[33me2f6cf9[m Merge pull request #81 from saadpasta/all-contributors/add-Rizwanjamal
+[33m37ed05a[m docs: update .all-contributorsrc [skip ci]
+[33me44d223[m docs: update README.md [skip ci]
+[33me3c2e04[m Merge pull request #80 from Rizwanjamal/doc-improvements
+[33madfe598[m doc: update README.md file
+[33m3b14dcd[m Merge pull request #78 from saadpasta/all-contributors/add-ashutosh1919
+[33m6ad3c8c[m docs: update .all-contributorsrc [skip ci]
+[33m87082e1[m docs: update README.md [skip ci]
+[33m941ac25[m Merge pull request #76 from ashutosh1919/animation_duplicate
+[33m42f2998[m Added Basic Reveal Fade animations
+[33m942c992[m Added Basic Reveal Fade animations
+[33mb50df08[m Merge pull request #75 from saadpasta/all-contributors/add-msayyaf1
+[33m20bd00f[m docs: update .all-contributorsrc [skip ci]
+[33m80b9f7f[m docs: update README.md [skip ci]
+[33maa6ff77[m Merge pull request #73 from msayyaf1/master
+[33me18aae0[m Typo fix
+[33m59858bc[m Merge pull request #70 from kartik918/master
+[33m73763a9[m fix check error
+[33mdbd4d0b[m made component optional, update readme
+[33mf3f66f6[m Fix Codacy errors
+[33m86f1475[m Update portfolio.js
+[33m44e1494[m Merge branch 'pr/7'
+[33m6885a59[m minor fixes, finalization
+[33mbe0fa41[m Add placeholder values, directory referencing fix
+[33mb94864d[m render skillProgress, component styling
+[33md9f5683[m Merge pull request #68 from naveen521kk/master
+[33mc62539c[m Improved Documentation
+[33m49fb7f5[m Added suggested updates
+[33me8be4f9[m Merge branch 'pr/6'
+[33md470479[m Create skillProgress component
+[33m2ae1cb1[m Consistent section heading size
+[33ma855949[m Some changes for deploy
+[33m111fbb2[m Fixed some syntax errors
+[33m292edad[m Some syntax error changes
+[33me14fa9d[m Completed cutomization
+[33m4fdd73e[m Added dependicies.
+[33mf5bb974[m Added twitter component
+[33mc8ba506[m Added deploy to netlify button
+[33m3c01dba[m Reformat comments, add skill graphic
+[33m83ab332[m Merge pull request #67 from saadpasta/kartik918-patch-1
+[33m2d976c8[m Removed comments, add consistent transition, color
+[33m3c933e9[m Merge pull request #65 from saadpasta/all-contributors/add-naveen521kk
+[33ma64383f[m docs: update .all-contributorsrc [skip ci]
+[33m7718691[m docs: update README.md [skip ci]
+[33m04208af[m Merge pull request #64 from naveen521kk/master
+[33m78b7a64[m Delete package-lock.json
+[33m49ae5bb[m Update Top.css
+[33m05ec825[m Final Bugs Fixes
+[33m2611e92[m Fixed syntax errors
+[33m42e1dbd[m Fixed some syntax errors
+[33m6ece559[m Removed unnecessary functions
+[33m8eabd7f[m Final updates
+[33m2ab0e03[m Some test-4
+[33mf9a07c8[m Some test-3
+[33m03a4d9b[m Some test-2
+[33mae4faee[m Some test
+[33mec1d20c[m Some test
+[33m8fa2f27[m Added progress bar.
+[33m4fc9958[m Merge pull request #60 from saadpasta/wave-emoji
+[33mcccf4a3[m change : emoji color
+[33m0f458ef[m add : animation in wave emoji
+[33mb0ebae3[m Merge pull request #57 from saadpasta/fix-https
+[33mea7749b[m Fix http error while loading content from http
+[33md0457a2[m Merge pull request #54 from saadpasta/all-contributors/add-viveksharmaui
+[33ma20d5d8[m docs: update .all-contributorsrc [skip ci]
+[33ma790c59[m docs: update README.md [skip ci]
+[33m6a1d5c7[m Merge pull request #52 from viveksharmaui/dockerized
+[33m25767dd[m Fix Codacy throw error
+[33me9e6bf3[m Move HR to the end of document
+[33m7d6ea3a[m update readme.md
+[33md9517ce[m Add DockerFile
+[33me6d3f17[m Merge pull request #5 from saadpasta/master
+[33me6eaa73[m Merge pull request #49 from rajkumaar23/iphone-btn-fix
+[33m42324c6[m Fixes btn overlap on screen width 320px
+[33mb8173f2[m Merge pull request #45 from saadpasta/all-contributors/add-rajkumaar23
+[33mea80f8a[m docs: update .all-contributorsrc [skip ci]
+[33m2884b37[m docs: update README.md [skip ci]
+[33mcc4617c[m Merge pull request #44 from rajkumaar23/href-contact
+[33mbb37978[m Adds hover effects
+[33m3a5fdef[m Removes h1 tags and add CSS to anchor
+[33m0dcaff7[m Adds appropriate href to contact section
+[33m7e8ffa0[m Merge pull request #43 from strangeforloop/master
+[33m38cce32[m Update README.md
+[33mea4fe12[m Merge pull request #4 from saadpasta/master
+[33m9642490[m Update .all-contributorsrc
+[33m8754c76[m Merge pull request #38 from saadpasta/all-contributors/add-brianteeman
+[33m63f85dc[m Update README.md
+[33m9547ee5[m docs: update .all-contributorsrc [skip ci]
+[33m127f9ba[m docs: update README.md [skip ci]
+[33mfde63fc[m Merge pull request #37 from brianteeman/patch-1
+[33m02b542c[m typo
+[33ma71ebc2[m Merge pull request #36 from kartik918/patch-1
+[33mb2a2033[m Fixed contributors section
+[33mb58bfe8[m Update README.md
+[33m4a47dca[m Merge pull request #34 from saadpasta/fix-padding
+[33m0ccea13[m Fix: padding and responsivenes on small screen
+[33mbbc3991[m Merge pull request #33 from saadpasta/all-contributors/add-kartik918
+[33m8743802[m docs: update .all-contributorsrc [skip ci]
+[33mfbe7c28[m docs: update README.md [skip ci]
+[33m74451b5[m Merge pull request #32 from kartik918/master
+[33m6dd8005[m Change blogs button color scheme
+[33m909a95e[m Revised code, add comments, removed deprecated class
+[33mec626f0[m Designed new Talks layout, Add 2 background svg choices
+[33m07bf7e9[m Designed new layout for talks
+[33me75e123[m Fixed typo in codebase
+[33m607e30e[m Merge pull request #3 from saadpasta/master
+[33mb3ae0a2[m Merge pull request #30 from saadpasta/podcast
+[33m5ff9a16[m add : podcast section
+[33mb49a066[m Update README.md
+[33m4bab09b[m Merge pull request #29 from saadpasta/button-radius
+[33mb16b66f[m add : button radius
+[33m966c207[m Merge pull request #28 from saadpasta/saadpasta-patch-2
+[33mf8c54e1[m Update README.md
+[33ma7f5d56[m Merge pull request #27 from saadpasta/navbar-navigation
+[33m6cbdb5d[m Added : Navabar Talks Naviagtion In Header
+[33mf392846[m Merge pull request #26 from saadpasta/talk-section
+[33m935e39c[m added : talk section in Portfolio
+[33m74abf1c[m Merge pull request #25 from saadpasta/blog-card-css
+[33m7255975[m add : ellepsis on blog card on title and subtitle
+[33md90dc5b[m Merge pull request #24 from saadpasta/github-repo-card-ellipsis
+[33m2c1f463[m add : ellipsis for more then 2 line in github repo card
+[33m6f51295[m Merge pull request #23 from kartikch918/master
+[33m834d304[m Add smooth button transitions
+[33mef006e7[m Switched to local font instead of cdn for offline functionality
+[33m57d2a0b[m Merge pull request #2 from saadpasta/master
+[33mabb6ff2[m Removed redundant css
+[33m54af8a7[m Switch font to Monsterrat
+[33m1090bcd[m Merge pull request #21 from saadpasta/all-contributors/add-kartikch918
+[33m382cee5[m docs: update .all-contributorsrc
+[33m2816be8[m docs: update README.md
+[33m1ee4c83[m Merge pull request #19 from kartikch918/master
+[33mafb50a3[m Update README.md
+[33me568235[m Change contact section styling
+[33m14a3110[m Merge branch 'master' of https://github.com/kartikch918/developerFolio
+[33m6c4e357[m Merge pull request #1 from saadpasta/master
+[33mdb2f818[m Update README.md
+[33mf745d35[m Update README.md
+[33m15932e7[m Update README.md
+[33m4853baa[m Merge pull request #18 from saadpasta/config-file
+[33m7423316[m update : Readme to new portfolio
+[33m2e11cba[m removed : keys from readme.md
+[33mca4112e[m modified : achievement for Config.js
+[33mb21629b[m Update README.md
+[33m424cfe5[m Add transitions to contact me icons
+[33m988dd40[m modified : contact details
+[33md88befb[m modified : blog section with config
+[33m5f29179[m add : Big Project and Portfolio in Config
+[33m93c0be9[m add : open source project keys github
+[33m937a1db[m Merge pull request #16 from saadpasta/all-contributors/add-IamDZN
+[33me49e0f3[m docs: update .all-contributorsrc
+[33me7e78fb[m docs: update README.md
+[33m7b483dc[m Merge pull request #15 from IamDZN/patch-1
+[33mf48a4c3[m Update README.md
+[33md0dd9cc[m modified : Skills with new config File
+[33m2db75a8[m modified : Greeting/Welcome with new config File
+[33m4df50da[m modified : Software Skills with new config File
+[33m8cb02a4[m modified : Social Media with new config File
+[33m67a8e05[m add : portfolio/ config  file
+[33m1f70b8c[m Merge pull request #14 from saadpasta/code-quality-badge
+[33ma22e7f9[m Update README.md
+[33mf1b7c96[m Update README.md
+[33m2629b56[m Merge pull request #12 from 9inpachi/patch-1
+[33m210231d[m Signature like font for logo
+[33m98dce0b[m Merge pull request #11 from saadpasta/saadpasta-patch-1
+[33m7bf4b52[m Update README.md
+[33md3c1569[m Merge pull request #10 from saadpasta/all-contributors/add-9inpachi
+[33m240817d[m docs: update .all-contributorsrc
+[33mf8659eb[m docs: update README.md
+[33mcdaabd5[m Merge pull request #6 from 9inpachi/master
+[33meb7ab79[m Merge pull request #9 from saadpasta/all-contributors/add-9inpachi
+[33m44f55fc[m docs: update .all-contributorsrc
+[33med5cb25[m docs: update README.md
+[33m2e7fdb5[m Better padding and font size for medium resolutions
+[33mca2b4b6[m Update README.md
+[33m6cf4c1d[m Update README.md
+[33m051d91d[m uploaded porfolio gif
+[33m2be967a[m Update README.md
+[33m4d79c92[m Update README.md
+[33mb6321e2[m Update README.md
+[33m38ffafb[m Update README.md
+[33mce07182[m Update README.md
+[33m671ecf3[m Merge pull request #2 from saadpasta/all-contributors/add-saadpasta
+[33m83f6e61[m docs: create .all-contributorsrc
+[33m7d8376c[m docs: update README.md
+[33m48e1420[m Update README.md
+[33mf8c0156[m Update README.md
+[33m8b16e14[m Update README.md
+[33ma592bc5[m Update Projects.js
+[33m52aaa69[m Update README.md
+[33m4e55098[m Update README.md
+[33m180ba94[m Update README.md
+[33m070eb35[m Update README.md
+[33m37ba8c0[m Update README.md
+[33m508be9c[m developer - portfolio
+[33me7c7443[m Update README.md
+[33m42f651a[m Update README.md
+[33md005fa9[m Initial commit
