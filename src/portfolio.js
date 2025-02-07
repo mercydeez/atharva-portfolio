@@ -25,9 +25,8 @@ const greeting = {
   subTitle: emoji(
     "An aspiring data scientist who turns raw data into valuable insights, like a sculptor shaping a masterpiece from stone. Always learning, always evolving."
   ),
-  resumeLink: 
-   "https://drive.google.com/uc?export=download&id=1FcwnODkhAL-N6sSy7yGISzpLiozA2dZx", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  resumeLink: "https://drive.google.com/uc?export=download&id=1FcwnODkhAL-N6sSy7yGISzpLiozA2dZx", 
+displayGreeting: true // This will show the greeting section in the landing page
 };
 
 // Social Media Links
@@ -192,15 +191,19 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/no_risk.png.png"),
-      projectName: "Forest Fire Detection Module",
-      projectDesc: "A machine learning-based web application that predicts forest fire risks based on temperature, oxygen levels, and humidity. It provides real-time predictions on whether the forest is safe or in danger of fire, including the probability of the prediction.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://github.com/mercydeez/forest-fire-detection-module/"
-        }
-        //  you can add extra buttons here.
-      ]
+      projectName: "Forest Fire Risk Prediction",
+projectDesc: "A beginner-friendly Machine Learning project that predicts the risk of forest fires based on environmental factors. Built with Streamlit, this project provides real-time predictions and insightful visualizations.",
+footerLink: [
+  {
+    name: "Live Demo",
+    url: "https://forest-fire-risk-prediction-d9vmff5zuuvjvgoyjqjvpr.streamlit.app/"
+  },
+  {
+    name: "GitHub Repository",
+    url: "https://github.com/yourusername/forest-fire-risk-prediction/"
+  }
+]
+
     },
     {
       image: require("./assets/images/image.png"),
@@ -212,7 +215,7 @@ const bigProjects = {
           url: "https://app.powerbi.com/groups/3497fe1f-7ddc-47fb-9bbd-61ef5071b8fa/reports/9150a168-6ce6-4760-afad-4956636faa14?ctid=d0d192ac-6b94-47ea-b38c-5bb83fd8c443&pbi_source=linkShare"
         },
         {
-          name: "Visit Website",
+          name: "Github Repository",
           url: "https://github.com/mercydeez/UPI_Dashboard_PowerBI"
         }
       ]
@@ -223,7 +226,7 @@ const bigProjects = {
       projectDesc: "This project looks at Google Play Store data to find trends in app categories, ratings, installations, and performance. Using Python, Pandas, Seaborn, and Matplotlib, it shows key insights through simple and interactive visualizations.",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Github Repository",
           url: "https://github.com/mercydeez/Google-Play-Analysis"
         }
         //  you can add extra buttons here.
